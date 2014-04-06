@@ -32,7 +32,7 @@ public class TestPRTree {
 
     private static final double RANDOM_RANGE = 100000;
 
-    @Before
+    
     public void setUp() {
 	tree = new PRTree<> (converter, BRANCH_FACTOR);
     }
