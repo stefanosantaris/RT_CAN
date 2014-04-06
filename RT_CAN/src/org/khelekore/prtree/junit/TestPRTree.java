@@ -6,8 +6,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Random;
-import org.junit.Before;
-import org.junit.Test;
 import org.khelekore.prtree.DistanceResult;
 import org.khelekore.prtree.NodeFilter;
 import org.khelekore.prtree.MinDist2D;
@@ -20,7 +18,6 @@ import org.khelekore.prtree.SimpleMBR;
 import org.khelekore.prtree.SimplePointND;
 import org.khelekore.prtree.AcceptAll;
 
-import static org.junit.Assert.*;
 
 /** Tests for PRTree.
  */
